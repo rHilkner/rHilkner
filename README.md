@@ -8,7 +8,6 @@ I'm a brazilian software developer and an enthusiast of technology. I've been de
 [❤️ Noiva em Fuga](https://noivaemfuga.com.br/)
 
 ## Important Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rHilkner&repo=kotlin-boilerplate)](https://github.com/rHilkner/kotlin-boilerplate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rHilkner&repo=runescript-dreambot)](https://github.com/rHilkner/runescript-dreambot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rHilkner&repo=chia)](https://github.com/rHilkner/chia)
 
