@@ -1,6 +1,6 @@
 # Hello, my name is Rodrigo 👋
 
-I'm a brazilian software developer and an enthusiast of technology. I've been developing software since 2014 when I started studying Computer Engineering in the State University of Campinas. From 2014 to 2016 I've developed mostly personal and academic projects and 2017 I started freelancing. In this period I've delivered projects in Python (data-mining and data-analysis - 2 projects), Java and React (full-stack web project - 1 project), Swift and Firebase (iOS development - 6 projects). It was May/2019 when I started working full time as a full-stack web developer. Since then I've graduated in college and developed several applications, mostly handling REST API (Java/Spring-Boot), data analysis (Java/Oracle/PLSQL) and frontend development (React/NextJS). I also like doing side projects and always keeping my stack updated with the newest technologies and frameworks. In my current side project (Noiva em Fuga - website for renting vehicles for weddings) I'm using Kotling/Spring-Boot for backend, PostgreSQL for database, React/NextJS for frontend and AWS (EC2, RDS, S3, SES) for infrastructure.
+I'm a brazilian software developer and an enthusiast of technology. I've been developing software since 2014 when I started studying Computer Engineering in the State University of Campinas. From 2014 to 2016 I've developed mostly personal and academic projects and 2017 I started freelancing. In this period I've delivered projects in Python (data-mining and data-analysis - 2 projects), Java and React (full-stack web project - 1 project), Swift and Firebase (iOS development - 6 projects). It was May/2019 when I started working full time as a full-stack web developer. Since then I've graduated in college and developed several applications, mostly handling REST API (Java/Spring-Boot), data analysis (Java/Oracle/PLSQL) and frontend development (React/NextJS). I also like doing side projects and always keeping my stack updated with the newest technologies and frameworks. In my current side project (Noiva em Fuga - website for renting vehicles for weddings) I'm using Kotling/Spring-Boot for backend, PostgreSQL for database, React/NextJS for frontend and AWS (EC2, RDS, SES, S3, CloudFront, Route 53, AWS Cert. Manager) and Nginx for infrastructure.
 
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rHilkner&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/rHilkner)
 
@@ -25,6 +25,7 @@ I'm a brazilian software developer and an enthusiast of technology. I've been de
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-green?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Older stack
