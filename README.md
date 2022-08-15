@@ -6,7 +6,7 @@ Brazilian software developer and an enthusiast of technology. I joined the compu
 
 ## Projects
 [❤️ Noiva em Fuga](https://noivaemfuga.com.br/) - Web application for executive transportation focused on weddings\
-[🎁 Stikr.app](https://stikr.app/) - Soon in Play Store - app that lets you create, organize, import and export your stickers from WhatsApp and Telegram
+[🎁 Stikr.app](https://stikr.app/) - Soon in Play Store - App that lets you create, organize, import and export your stickers from WhatsApp and Telegram
 
 ## Important Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rHilkner&repo=kotlin-boilerplate)](https://github.com/rHilkner/kotlin-boilerplate)
