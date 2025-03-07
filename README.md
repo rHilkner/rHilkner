@@ -38,6 +38,8 @@ Brazilian software developer and an enthusiast of technology. I joined the compu
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white)
 
+\+ Cloud Functions, AWS Redshift, AWS S3 - they didn't have the pretty logos for these 🥲
+
 ## Minor projects stack
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
