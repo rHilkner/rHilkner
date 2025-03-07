@@ -7,8 +7,9 @@ Brazilian software developer and an enthusiast of technology. I joined the compu
 -->
 
 ## Projects
-[❤️ Noiva em Fuga](https://noivaemfuga.com.br/) - Web application for executive transportation focused on weddings\
-[🎁 Stikr.app](https://stikr.app/) - Soon in Play Store - App that lets you create, organize, import and export your stickers from WhatsApp and Telegram
+[❤️ Noiva em Fuga](https://noivaemfuga.com.br/) - B2B web app for executive transportation focused on weddings.
+[🎁 WebAlbum.app](https://webalbum.app) Deactivated - B2C web app for creation and digital collection of stickers album.
+[🎁 Stikr.app](https://stikr.app/) - Soon in Play Store - B2C mobile app that lets you create, organize, import, export, and share your stickers from WhatsApp and Telegram.
 
 ## Important Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rHilkner&repo=kotlin-boilerplate)](https://github.com/rHilkner/kotlin-boilerplate)
@@ -19,7 +20,6 @@ Brazilian software developer and an enthusiast of technology. I joined the compu
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,15 +31,16 @@ Brazilian software developer and an enthusiast of technology. I joined the compu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Data migration/analysis stack
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ## Minor projects stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
