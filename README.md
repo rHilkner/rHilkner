@@ -7,8 +7,11 @@ Brazilian software developer and an enthusiast of technology. I joined the compu
 -->
 
 ## Projects
+
 [❤️ Noiva em Fuga](https://noivaemfuga.com.br/) - B2B web app for executive transportation focused on weddings.
+
 [🎁 WebAlbum.app](https://webalbum.app) Deactivated - B2C web app for creation and digital collection of stickers album.
+
 [🎁 Stikr.app](https://stikr.app/) - Soon in Play Store - B2C mobile app that lets you create, organize, import, export, and share your stickers from WhatsApp and Telegram.
 
 ## Important Repositories
